@@ -3,7 +3,7 @@
 "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
 <!-- Generated 2017-3-6 16:03:59 by Hibernate Tools 3.4.0.CR1 -->
 <hibernate-mapping>
-<!-- 映射到数据库news表-->
+
     <class name="Model.Product" table="product_table">
         <id name="id" type="int">
             <column name="_id" />
