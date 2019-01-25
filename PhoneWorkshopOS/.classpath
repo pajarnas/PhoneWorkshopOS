@@ -9,5 +9,8 @@
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JDBC+Struts2+Hibernate"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/SSH"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ssh"/>
+	<classpathentry kind="lib" path="C:/Users/saige/Documents/JAVA CODE/lib/dom4j-2.1.1.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
